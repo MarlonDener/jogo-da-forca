@@ -22,11 +22,12 @@ Link: https://marlondener.github.io/jogo-da-forca/
 
 <h3>Como rodar a aplicação :</h3>
 
-1) Verifique se tem o Node instalado, caso não tenha, siga os passos aqui: https://nodejs.org/en/
-2) Navegue até a pasta do projeto
-3) Em seu cmd, digite o comando - "npm install"
-4) Depois digite - "npm run serve"
-5) Finalmente abra o projeto em seu localhost
+1) Verifique se tem o Node instalado em sua máquina, siga os passos aqui: https://nodejs.org/en/
+2) Instale VUE CLI : https://cli.vuejs.org/
+3) Navegue até a pasta do projeto
+4) Em seu cmd, digite o comando - "npm install"
+5) Depois digite - "npm run serve"
+6) Finalmente abra o projeto em seu localhost
 
 
 
