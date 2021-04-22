@@ -1,10 +1,14 @@
 <h2>Jogo da forca</h2>
 
+Esse jogo foi desenvolvido utilizando a tecnologia Vue.js, com duas possibilidades de jogo, uma delas é o jogo solo, em que sortea uma palavra aleatória baseado no tema que você escolher, são as possibilidades de temas, tecnologia, profissão, objetos e animais, já a segunda opção de jogo, uma pessoa difine uma palavra e a dica para seu amigo adivinhar.
+
+Obs: Como o jogo está hospedado aqui no Github, acabei removendo o sistema de pontos, devido a utilização de Cokkies que causa incompatibilidade.
+
 Link: https://marlondener.github.io/jogo-da-forca/
 
 ![image](https://user-images.githubusercontent.com/70349830/115104336-1b48cd00-9f2e-11eb-913b-6186a71169ca.png)
 
-<h3>Tecnologias usadas:</h3>
+<h3>Tecnologias utilizadas:</h3>
 <table>
   <tr>
     <td>HTML</td>
