@@ -1,6 +1,6 @@
 <h2>Jogo da forca</h2>
 
-Esse jogo foi desenvolvido utilizando a tecnologia Vue.js, com duas possibilidades de jogo, uma delas é o jogo solo, em que sortea uma palavra aleatória baseado no tema que você escolher, são as possibilidades de temas, tecnologia, profissão, objetos e animais, já a segunda opção de jogo, uma pessoa difine uma palavra e a dica para seu amigo adivinhar.
+Esse jogo foi desenvolvido utilizando a tecnologia Vue.js, com duas possibilidades de jogo, uma delas é o jogo solo, em que sortea uma palavra aleatória baseado no tema que você escolher, são as possibilidades de temas, tecnologia, profissão, objetos e animais, já a segunda opção de jogo, uma pessoa define a palavra e a dica para seu amigo adivinhar.
 
 Obs: Como o jogo está hospedado aqui no Github, acabei removendo o sistema de pontos, devido a utilização de Cokkies que causa incompatibilidade.
 
