@@ -4,7 +4,7 @@ Esse jogo foi desenvolvido utilizando a tecnologia Vue.js, com duas possibilidad
 
 Obs: Como o jogo está hospedado aqui no Github, acabei removendo o sistema de pontos, devido a utilização de Cookies que causa incompatibilidade.
 
-Link: https://marlondener.github.io/jogo-da-forca/
+<h2><a href="https://marlondener.github.io/jogo-da-forca/">Jogue aqui</a></h2>
 
 ![image](https://user-images.githubusercontent.com/70349830/115104336-1b48cd00-9f2e-11eb-913b-6186a71169ca.png)
 
