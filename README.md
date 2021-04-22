@@ -35,6 +35,6 @@ Link: https://marlondener.github.io/jogo-da-forca/
 
 
 
-                                                               Muito obrigado!
+Muito obrigado!
 
 
