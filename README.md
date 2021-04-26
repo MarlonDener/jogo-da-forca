@@ -33,6 +33,8 @@ Obs: Como o jogo está hospedado aqui no Github, acabei removendo o sistema de p
 5) Depois digite - "npm run serve"
 6) Finalmente abra o projeto em seu localhost
 
+<br/>
+
 
 
    Muito obrigado por estar aqui!
