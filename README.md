@@ -35,6 +35,6 @@ Obs: Como o jogo está hospedado aqui no Github, acabei removendo o sistema de p
 
 
 
-                                                                            Muito obrigado!
+   Muito obrigado por estar aqui!
 
 
