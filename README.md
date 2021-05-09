@@ -30,7 +30,7 @@ Obs: Como o jogo está hospedado aqui no Github, acabei removendo o sistema de p
 2) Instale VUE CLI : https://cli.vuejs.org/
 3) Navegue até a pasta do projeto
 4) Em seu cmd, digite o comando - "npm install"
-5) Depois digite - "npm run serve"
+5) Enfim abra um servidor, digitando o comando  - "npm run serve"
 6) Finalmente abra o projeto em seu localhost
 
 <br/>
