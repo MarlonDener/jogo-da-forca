@@ -19,6 +19,7 @@ Obs: Como o jogo está hospedado aqui no Github, acabei removendo o sistema de p
     <td>*</td>
     <td>*</td>
     <td>3.0</td>
+     
   </tr>
   
   
